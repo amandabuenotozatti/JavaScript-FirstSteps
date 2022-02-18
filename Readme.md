@@ -21,6 +21,6 @@
 - Indices of the list
 
 ### Conditionals
-Logical operators
-Execution flow
-Chained conditionals
+- Logical operators
+- Execution flow
+- Chained conditionals
