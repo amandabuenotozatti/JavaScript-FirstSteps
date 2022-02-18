@@ -19,3 +19,8 @@
 - Adding items to the list with push method
 - Removing items with splice method
 - Indices of the list
+
+### Conditionals
+Logical operators
+Execution flow
+Chained conditionals
