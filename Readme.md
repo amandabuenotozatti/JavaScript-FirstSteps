@@ -24,3 +24,11 @@
 - Logical operators
 - Execution flow
 - Chained conditionals
+
+### Iterating over collections
+- While
+- Break
+- Using the VS Code Debugger
+- Understanding the code execution flow
+- Configuring the VSCode debugger
+- For Loop
