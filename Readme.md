@@ -1,4 +1,4 @@
-# JavaScript - Firsts Steps
+# JavaScript - First Steps
 
 > Objective
 
